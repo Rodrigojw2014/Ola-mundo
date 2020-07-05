@@ -21,5 +21,5 @@ Aprendi também que existe listas:
    * subitens quando precisarmos
 - [ ] Podemos usar também listas para criar tarefas
 - [ ] Assim podemos organizar nossas aulas
-- [ ] Faça sério isso é o máximo!
+- [ ] Fala sério isso é o máximo!
 - [x] Quando terminarmos uma podemos editar como concluída ;)
