@@ -23,3 +23,11 @@ Aprendi também que existe listas:
 - [ ] Assim podemos organizar nossas aulas
 - [ ] Fala sério isso é o máximo!
 - [x] Quando terminarmos uma podemos editar como concluída ;)
+
+Falei que aprendi sobre tabelas também?
+Posso escolher o que vai dentro de cada celúla, muito util para apresentar informações ex:
+
+*Num* | *Nome* | *Nota* 
+---|---|---
+1 | Rodrigo | 10
+
